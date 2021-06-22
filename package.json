@@ -1,0 +1,23 @@
+{
+  "name": "demo-landing-f2e",
+  "version": "1.0.0",
+  "description": "Just for prerender & directus demo ===",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/damien-su-lb/demo-landing-f2e.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/damien-su-lb/demo-landing-f2e/issues"
+  },
+  "homepage": "https://github.com/damien-su-lb/demo-landing-f2e#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "prerender-node": "^3.2.5"
+  }
+}
